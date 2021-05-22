@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter project.
+World Time Flutter App, uses API to pull world time data.
 
 ## Getting Started
 
